@@ -1,4 +1,4 @@
-/*roblem: Doubly Linked List Insertion and Traversal - Implement using linked list with dynamic memory allocation.
+/*Problem: Doubly Linked List Insertion and Traversal - Implement using linked list with dynamic memory allocation.
 
 Input:
 - First line: integer n
